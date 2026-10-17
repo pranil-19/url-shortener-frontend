@@ -11,6 +11,6 @@ export default defineConfig({
     watch: {
       usePolling: true // needed for hot reload in Docker sometimes
     },
-    allowedHosts: ['.localhost','url-shortener-frontend-r4s9.onrender.com'] 
+    allowedHosts: ['.localhost','linkora-mxqb.onrender.com']
   }
 })
