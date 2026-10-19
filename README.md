@@ -1,6 +1,6 @@
-# ZipLink
+# Linkora
 
-ZipLink is a simple URL shortener web app built with React and Vite. The idea is straightforward: shorten long links, keep them organized, and manage them from one place without making the experience feel too heavy.
+Linkora is a simple URL shortener web app built with React and Vite. The idea is straightforward: shorten long links, keep them organized, and manage them from one place without making the experience feel too heavy.
 
 It has a clean landing page, a sign-up and login flow, a dashboard for managing links, and a few visual touches to make the whole thing feel a bit more polished.
 

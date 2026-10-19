@@ -6,15 +6,15 @@ const AboutPage = () => {
     <div className="lg:px-14 sm:px-8 px-5 min-h-[calc(100vh-64px)] flex justify-center items-center pt-2">
       <div className="bg-white w-full sm:py-10 py-8 max-w-5xl text-center">
         <h1 className="sm:text-4xl text-slate-800 text-3xl font-bold italic mb-5">
-          About ZipLink
+          About Linkora
         </h1>
         <p className="text-gray-700 text-sm mb-8 xl:w-[70%] lg:w-[75%] sm:w-[80%] w-full mx-auto">
-          ZipLink is a modern URL shortening platform that helps you create
+          Linkora is a modern URL shortening platform that helps you create
           clean, memorable, and easy-to-share links in seconds. With powerful
           analytics, you can track clicks, user engagement, and traffic sources
           to better understand your audience. Designed for speed, reliability,
-          and security, ZipLink ensures your links are always accessible and
-          protected. Whether you’re an individual or a business, ZipLink makes
+          and security, Linkora ensures your links are always accessible and
+          protected. Whether you’re an individual or a business, Linkora makes
           link management simple and effective.
         </p>
 

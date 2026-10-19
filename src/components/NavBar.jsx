@@ -27,7 +27,7 @@ const Navbar = () => {
     <BsLink45Deg className="text-violet-600 text-3xl" />
 
     <h1 className="text-3xl font-black italic text-slate-900 tracking-tight">
-        ZipLink
+        Linkora
     </h1>
 </Link>
 
